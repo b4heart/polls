@@ -26,6 +26,8 @@ polls
 * Git Change username:
 `>git config --local credential.helper ""`
 `>git push origin master`
+*  Git pull
+`>git pull`
 
 
 ## Creating a virtual environment
